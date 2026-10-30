@@ -1,0 +1,14 @@
+# --- dependencies (reinstall with: npm install)
+node_modules/
+
+# --- render outputs, intermediate mixes/stems, stills and logs (rebuilt by the scripts)
+build/
+
+# --- Python / OS / editor noise
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

@@ -1,0 +1,31 @@
+1
+00:00:00,290 --> 00:00:01,810
+You booked the flight.
+
+2
+00:00:01,970 --> 00:00:02,960
+Now what?
+
+3
+00:00:03,310 --> 00:00:06,140
+FlightDeals has the rest of your trip covered.
+
+4
+00:00:06,440 --> 00:00:09,940
+Experiences: tours and tickets, in a tap.
+
+5
+00:00:09,950 --> 00:00:13,160
+Transfers: a ride waiting the moment you land.
+
+6
+00:00:13,360 --> 00:00:16,980
+Rent a car: the right wheels, ready when you arrive.
+
+7
+00:00:17,250 --> 00:00:19,620
+FlightDeals. More than flights.
+
+8
+00:00:19,640 --> 00:00:20,520
+Book now.
